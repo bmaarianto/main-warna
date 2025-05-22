@@ -12,7 +12,7 @@
 ## 🚀 Cara Menjalankan
 
 1. Clone repository:
-   ```bash
+   ```
    git clone https://github.com/bmaarianto/main-warna.git
    ```
 2. Buka file index.html di browser favorit kamu.
